@@ -1,5 +1,5 @@
-# 2-Cars
-An arcade game for Sugar XOs.
+# 1-Cars
+An arcade game skeleton
 
 #Installation of dependencies(Through terminal)
 
